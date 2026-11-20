@@ -1,0 +1,6 @@
+{
+  "name": "Presensi Generus",
+  "description": "Aplikasi PWA absensi digital pengajian muda-mudi Karanganyar Barat dengan QR Code, RBAC bertingkat, pemantauan real-time, dan jejak audit.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
